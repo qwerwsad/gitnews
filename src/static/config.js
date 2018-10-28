@@ -5,4 +5,5 @@ var chiji='bixude';
 var wangyanlin='tiemenkanbixin';
 var sunhemeng='1324141234'
 var nihao=123;
+var hello=123;
 export default baseUrl;
