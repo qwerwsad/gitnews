@@ -12,6 +12,4 @@ var person = "xiaoming";
 var sex = "man";
 
 var sun=123;
-
-
-
+var lihuan='pig'
