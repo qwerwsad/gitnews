@@ -7,3 +7,7 @@ var name = "lisheng";
 
 var b=6;
 
+var person = "xiaoming";
+
+
+
