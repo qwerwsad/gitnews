@@ -9,5 +9,7 @@ var b=6;
 
 var person = "xiaoming";
 
+var sun=123;
+
 
 
