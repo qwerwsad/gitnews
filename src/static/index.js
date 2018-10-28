@@ -15,3 +15,6 @@ var sun=123;
 
 var li='222'
 
+
+var lihuan='pig'
+
