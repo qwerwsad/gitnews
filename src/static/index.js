@@ -9,6 +9,8 @@ var b=6;
 
 var person = "xiaoming";
 
+var sex = "man";
+
 var sun=123;
 
 
