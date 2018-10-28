@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {baseUrl} from '../static/config'
 class Childs extends React.Component{
     constructor(props){
         super(props);
