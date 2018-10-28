@@ -10,12 +10,9 @@ var b=6;
 var person = "xiaoming";
 
 var sex = "man";
-
 var sun=123;
-
 var li='222'
-
-
 var lihuan='pig'
 var lisheng='dog'
+var nihao=111;
 
