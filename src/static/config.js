@@ -11,5 +11,7 @@ var nihao=123;
 var hello=123;
 var lh='hahahaha';
 var hh='123456';
+var qiyou='1111';
+var llll='2222';
 var jintian=2018;
 var 1=123;
