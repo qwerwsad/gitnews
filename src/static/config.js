@@ -1,3 +1,6 @@
+var baseUrl='adkjfhalkdjfhlkakhfd';
+var sunhemeng='1234567898978989'
+export default baseUrl;
 //var baseUrl='adkjfhalkdjfhlkakhfd';
 var baseUrl='sadasada';
 var lh='1234';
