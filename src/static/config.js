@@ -13,3 +13,6 @@ var lh='hahahaha';
 var hh='123456';
 var qiyou='qiyou';
 var llll='2222';
+var qiyou='1111';
+var llll='2222';
+var sss=123526;
