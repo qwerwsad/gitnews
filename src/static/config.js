@@ -19,3 +19,4 @@ var sss=123526;
 var shm='wbd'
 var lh='lvdou';
 var news="2"
+var hotfix="版本补丁"
