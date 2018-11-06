@@ -18,3 +18,4 @@ var llll='2222';
 var sss=123526;
 var shm='wbd'
 var lh='lvdou';
+var news="2"
