@@ -20,3 +20,4 @@ var shm='wbd'
 var lh='lvdou';
 var news="2"
 var dev="这里比master多一行代码"
+var hotfix="版本补丁"
