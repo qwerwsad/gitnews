@@ -19,3 +19,4 @@ var sss=123526;
 var shm='wbd'
 var lh='lvdou';
 var news="2"
+var dev="这里比master多一行代码"
